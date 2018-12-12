@@ -1,0 +1,26 @@
+#snp
+cairo_pdf(filename="E:/R_workspace/Zebra500_WGS/snp.pdf",width =8,height =6)
+par(mar = c(5,6,2,2))
+GATK3 <- read.table("E:/R_workspace/Zebra500_WGS/GATK3/snp_out/snp_rate_roc.tsv")
+GATK3_2 <- read.table("E:/R_workspace/Zebra500_WGS/GATK3_2/snp/snp_rate_roc.tsv")
+GATK4 <- read.table("E:/R_workspace/Zebra500_WGS/GATK4/snp_out/snp_rate_roc.tsv")
+Gaea <- read.table("E:/R_workspace/Zebra500_WGS/Gaea/snp/snp_rate_roc.tsv")
+edico <- read.table("E:/R_workspace/Zebra500_WGS/edico/snp/snp_rate_roc.tsv")
+Sentieon <- read.table("E:/R_workspace/Zebra500_WGS/Sentieon/snp_out/snp_rate_roc.tsv")
+plot(GATK3$V3,GATK3$V2,xlim=c(0,0.01),ylim=c(0.85,1),col="green",type="l",lwd=1.5,xlab="False positive rate",ylab="True positive rate")
+lines(GATK3_2$V3, GATK3_2$V2, col="black", lwd=1.5, type="l")
+lines(GATK4$V3, GATK4$V2, col="yellow", lwd=1.5, type="l")
+lines(Gaea$V3, Gaea$V2, col="red", lwd=1.5, type="l")
+lines(edico$V3, edico$V2, col="blue", lwd=1.5, type="l")
+lines(Sentieon$V3, Sentieon$V2, col="pink", lwd=1.5, type="l")
+
+points(0.00612787739485,  0.994710219299, pch=1,col = "green")
+points(0.00612349273352, 0.994708966538, pch=1,col = "black")
+points(0.00612819058494, 0.99464664171, pch=1,col = "yellow")
+points(0.0061980319760, 0.99464852085,pch=1,col = "red")
+points(0.00615543812319, 0.994694559794, pch=1,col = "blue")
+points(0.00614416327978, 0.994709906109, pch=1,col = "pink")
+
+legend("bottomright",c("GATK3", "GATK3_2", "GATK4","Gaea","edico","Sentieon"),lty=c(1,1,1), col=c("green","black", "yellow","red","blue","pink"),lwd=2,pt.lwd=2,text.font=20,merge = TRUE, bg = 'gray98',box.lwd=0.5,cex=0.9)
+dev.off()
+
