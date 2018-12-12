@@ -1,0 +1,18 @@
+#indel
+cairo_pdf(filename="/Users/huangzhibo/workitems/04.other/vcfeval/Zebra500_WGS/indel.pdf",width =8,height =6)
+par(mar = c(5,6,2,2))
+hcindel <- read.table("/Users/huangzhibo/workitems/04.other/vcfeval/Zebra500_WGS/gatk/indel/non_snp_rate_roc.tsv")
+edico <- read.table("/Users/huangzhibo/workitems/04.other/vcfeval/Zebra500_WGS/edico/indel/non_snp_rate_roc.tsv")
+gaeahc <- read.table("/Users/huangzhibo/workitems/04.other/vcfeval/Zebra500_WGS/gaea_hc/indel/non_snp_rate_roc.tsv")
+gaeaug <- read.table("/Users/huangzhibo/workitems/04.other/vcfeval/Zebra500_WGS/gaea/indel/non_snp_rate_roc.tsv")
+plot(hcindel$V3,hcindel$V2,xlim=c(0,0.1),ylim=c(0.85,1),col="black",type="l",lwd=1.5,xlab="False positive rate",ylab="True positive rate")
+lines(edico$V3, edico$V2, col="blue", lwd=1.5, type="l")
+lines(gaeahc$V3, gaeahc$V2, col="red", lwd=1.5, type="l")
+lines(gaeaug$V3, gaeaug$V2, col="green", lwd=1.5, type="l")
+points(0.0381456050276, 0.96527272186, pch=1,col = "black")
+points(0.0400103930129, 0.961456537449, pch=1,col = "blue")
+points(0.039057700167, 0.963701130511,pch=1,col = "red")
+points(0.0417885725576, 0.908462997897, pch=1,col = "green")
+legend("bottomright",c("GATKBest", "edico","GaeaHC", "GaeaUG"),lty=c(1,1,1), col=c("black","blue", "red","green"),lwd=2,pt.lwd=2,text.font=20,merge = TRUE, bg = 'gray98',box.lwd=0.5,cex=0.9)
+dev.off()
+

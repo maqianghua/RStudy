@@ -1,0 +1,25 @@
+Location                     : /hwfssz1/BIGDATA_COMPUTING/maqianghua/work/alignment/gatk3/Analysis/gatk3.indels.vcf.gz
+Failed Filters               : 0
+Passed Filters               : 380821
+SNPs                         : 0
+MNPs                         : 0
+Insertions                   : 176598
+Deletions                    : 197572
+Indels                       : 6547
+Same as reference            : 0
+Missing Genotype             : 104
+SNP Transitions/Transversions: - (0/0)
+Total Het/Hom ratio          : 1.78 (243641/137076)
+SNP Het/Hom ratio            : - (0/0)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : 1.62 (109291/67307)
+Deletion Het/Hom ratio       : 1.83 (127803/69769)
+Indel Het/Hom ratio          : - (6547/0)
+Insertion/Deletion ratio     : 0.89 (176598/197572)
+Indel/SNP+MNP ratio          : - (380717/0)
+
+rtg vcfeval:
+Threshold  True-pos  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------
+   59.770    356685      14103      12794     0.9620       0.9654     0.9637
+     None    358104      22293      11375     0.9414       0.9692     0.9551

@@ -1,0 +1,25 @@
+Location                     : /hwfssz1/BIGDATA_COMPUTING/maqianghua/bgi_fpga/variant.indels.vcf.gz
+Failed Filters               : 0
+Passed Filters               : 383206
+SNPs                         : 0
+MNPs                         : 0
+Insertions                   : 176455
+Deletions                    : 200151
+Indels                       : 6490
+Same as reference            : 0
+Missing Genotype             : 110
+SNP Transitions/Transversions: - (0/0)
+Total Het/Hom ratio          : 1.81 (246762/136334)
+SNP Het/Hom ratio            : - (0/0)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : 1.63 (109457/66998)
+Deletion Het/Hom ratio       : 1.89 (130815/69336)
+Indel Het/Hom ratio          : - (6490/0)
+Insertion/Deletion ratio     : 0.88 (176455/200151)
+Indel/SNP+MNP ratio          : - (383096/0)
+
+rtg vcfeval:
+Threshold  True-pos  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------
+   70.250    354319      14022      15160     0.9619       0.9590     0.9604
+     None    356089      26699      13390     0.9303       0.9638     0.9467

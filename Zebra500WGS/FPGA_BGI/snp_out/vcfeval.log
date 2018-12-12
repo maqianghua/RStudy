@@ -1,0 +1,147 @@
+2018-01-04 14:19:10 serial = 27182818284
+2018-01-04 14:19:10 email = anon
+2018-01-04 14:19:10 RTG version = RTG Tools 3.6.2 / Core unknown (2016-03-28)
+2018-01-04 14:19:10 awt.toolkit = sun.awt.X11.XToolkit
+2018-01-04 14:19:10 file.encoding = UTF-8
+2018-01-04 14:19:10 file.encoding.pkg = sun.io
+2018-01-04 14:19:10 file.separator = /
+2018-01-04 14:19:10 host.name = cngb-hadoop-a16-9.cngb.sz.hpc
+2018-01-04 14:19:10 java.awt.graphicsenv = sun.awt.X11GraphicsEnvironment
+2018-01-04 14:19:10 java.awt.printerjob = sun.print.PSPrinterJob
+2018-01-04 14:19:10 java.class.path = /hwfssz1/BIGDATA_COMPUTING/software/source/rtg-tools-3.6.2-unknown/RTG.jar
+2018-01-04 14:19:10 java.class.version = 52.0
+2018-01-04 14:19:10 java.endorsed.dirs = /hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/endorsed
+2018-01-04 14:19:10 java.ext.dirs = /hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/ext:/usr/java/packages/lib/ext
+2018-01-04 14:19:10 java.home = /hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre
+2018-01-04 14:19:10 java.io.tmpdir = /tmp
+2018-01-04 14:19:10 java.library.path = /hwfssz1/BIGDATA_COMPUTING/software/source/rtg-tools-3.6.2-unknown
+2018-01-04 14:19:10 java.runtime.name = Java(TM) SE Runtime Environment
+2018-01-04 14:19:10 java.runtime.version = 1.8.0-b132
+2018-01-04 14:19:10 java.specification.name = Java Platform API Specification
+2018-01-04 14:19:10 java.specification.vendor = Oracle Corporation
+2018-01-04 14:19:10 java.specification.version = 1.8
+2018-01-04 14:19:10 java.vendor = Oracle Corporation
+2018-01-04 14:19:10 java.vendor.url = http://java.oracle.com/
+2018-01-04 14:19:10 java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+2018-01-04 14:19:10 java.version = 1.8.0
+2018-01-04 14:19:10 java.vm.info = mixed mode
+2018-01-04 14:19:10 java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+2018-01-04 14:19:10 java.vm.specification.name = Java Virtual Machine Specification
+2018-01-04 14:19:10 java.vm.specification.vendor = Oracle Corporation
+2018-01-04 14:19:10 java.vm.specification.version = 1.8
+2018-01-04 14:19:10 java.vm.vendor = Oracle Corporation
+2018-01-04 14:19:10 java.vm.version = 25.0-b70
+2018-01-04 14:19:10 lang.version = 1.8.0
+2018-01-04 14:19:10 line.separator = 
+
+2018-01-04 14:19:10 models.dir = /hwfssz1/BIGDATA_COMPUTING/software/source/rtg-tools-3.6.2-unknown/models
+2018-01-04 14:19:10 os.arch = amd64
+2018-01-04 14:19:10 os.freememory = 423665664
+2018-01-04 14:19:10 os.name = Linux
+2018-01-04 14:19:10 os.totalmemory = 134909145088
+2018-01-04 14:19:10 os.version = 3.10.0-514.el7.x86_64
+2018-01-04 14:19:10 path.separator = :
+2018-01-04 14:19:10 processor.arch = amd64
+2018-01-04 14:19:10 processor.count = 32
+2018-01-04 14:19:10 references.dir = /hwfssz1/BIGDATA_COMPUTING/software/source/rtg-tools-3.6.2-unknown/references
+2018-01-04 14:19:10 runtime.freememory = 2107854312
+2018-01-04 14:19:10 runtime.maxmemory = 107927830528
+2018-01-04 14:19:10 runtime.totalMemory = 2110783488
+2018-01-04 14:19:10 sun.arch.data.model = 64
+2018-01-04 14:19:10 sun.boot.class.path = /hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/resources.jar:/hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/rt.jar:/hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/sunrsasign.jar:/hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/jsse.jar:/hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/jce.jar:/hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/charsets.jar:/hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/jfr.jar:/hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/classes
+2018-01-04 14:19:10 sun.boot.library.path = /hwfssz1/BIGDATA_COMPUTING/software/Java/jdk1.8.0/jre/lib/amd64
+2018-01-04 14:19:10 sun.cpu.endian = little
+2018-01-04 14:19:10 sun.cpu.isalist = 
+2018-01-04 14:19:10 sun.io.unicode.encoding = UnicodeLittle
+2018-01-04 14:19:10 sun.java.command = /hwfssz1/BIGDATA_COMPUTING/software/source/rtg-tools-3.6.2-unknown/RTG.jar vcfeval --template=/hwfssz1/BIGDATA_COMPUTING/GaeaProject/reference/hg19/hg19.sdf --baseline=/hwfssz1/BIGDATA_COMPUTING/huangzhibo/Data/WGS-NA12878/NISTv3.3_hg19/NA12878_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-Solid-10X_CHROM1-X_v3.3_highconf.hg19.snps.vcf.gz --calls=/hwfssz1/BIGDATA_COMPUTING/maqianghua/bgi_fpga/variant.snps.vcf.gz --bed-regions=/hwfssz1/BIGDATA_COMPUTING/huangzhibo/Data/WGS-NA12878/NISTv3.3_hg19/NA12878_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-Solid-10X_CHROM1-X_v3.3_highconf.bed --vcf-score-field=QUAL --output=./snp_out/eva
+2018-01-04 14:19:10 sun.java.launcher = SUN_STANDARD
+2018-01-04 14:19:10 sun.jnu.encoding = UTF-8
+2018-01-04 14:19:10 sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2018-01-04 14:19:10 sun.os.patch.level = unknown
+2018-01-04 14:19:10 talkback = true
+2018-01-04 14:19:10 user.country = US
+2018-01-04 14:19:10 user.dir = /hwfssz1/BIGDATA_COMPUTING/maqianghua/bgi_fpga
+2018-01-04 14:19:10 user.home = /home/maqianghua
+2018-01-04 14:19:10 user.language = en
+2018-01-04 14:19:10 user.name = maqianghua
+2018-01-04 14:19:10 user.timezone = Asia/Shanghai
+2018-01-04 14:19:10 vendor = Oracle Corporation
+2018-01-04 14:19:10 gzipfix.enabled = true
+2018-01-04 14:19:10 Command line arguments: rtg vcfeval --template=/hwfssz1/BIGDATA_COMPUTING/GaeaProject/reference/hg19/hg19.sdf --baseline=/hwfssz1/BIGDATA_COMPUTING/huangzhibo/Data/WGS-NA12878/NISTv3.3_hg19/NA12878_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-Solid-10X_CHROM1-X_v3.3_highconf.hg19.snps.vcf.gz --calls=/hwfssz1/BIGDATA_COMPUTING/maqianghua/bgi_fpga/variant.snps.vcf.gz --bed-regions=/hwfssz1/BIGDATA_COMPUTING/huangzhibo/Data/WGS-NA12878/NISTv3.3_hg19/NA12878_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-Solid-10X_CHROM1-X_v3.3_highconf.bed --vcf-score-field=QUAL --output=./snp_out/eva
+2018-01-04 14:19:10 Run Id: 70df52a0-6b23-4380-b1fa-32c801b8bb57
+2018-01-04 14:19:12 Referenced SDF-ID: 03478e9c-edce-47ad-9001-43c8573a808d Type: DNA Sequences: 93 Residues: 3137161264 Max-Length: 249250621 Min-Length: 4262
+2018-01-04 14:19:21 Reference chr1 baseline contains 245551 variants.
+2018-01-04 14:19:21 Reference chr1 calls contains 246980 variants.
+2018-01-04 14:19:24 Reference chr2 baseline contains 264736 variants.
+2018-01-04 14:19:24 Reference chr2 calls contains 266246 variants.
+2018-01-04 14:19:27 Reference chr1 had maximum path complexity of 133 at chr1:7664567-7664613
+2018-01-04 14:19:28 Reference chr3 baseline contains 222266 variants.
+2018-01-04 14:19:28 Reference chr3 calls contains 223515 variants.
+2018-01-04 14:19:31 Reference chr2 had maximum path complexity of 133 at chr2:9906298-9906470
+2018-01-04 14:19:35 Reference chr3 had maximum path complexity of 133 at chr3:10116936-10117469
+2018-01-04 14:19:35 Reference chr4 baseline contains 236753 variants.
+2018-01-04 14:19:35 Reference chr4 calls contains 238512 variants.
+2018-01-04 14:19:38 Reference chr5 baseline contains 201676 variants.
+2018-01-04 14:19:38 Reference chr5 calls contains 202867 variants.
+2018-01-04 14:19:39 Reference chr4 had maximum path complexity of 133 at chr4:6114419-6116096
+2018-01-04 14:19:45 Reference chr6 baseline contains 193792 variants.
+2018-01-04 14:19:45 Reference chr6 calls contains 192587 variants.
+2018-01-04 14:19:45 Reference chr5 had maximum path complexity of 133 at chr5:7587076-7587938
+2018-01-04 14:19:47 Reference chr7 baseline contains 170546 variants.
+2018-01-04 14:19:47 Reference chr7 calls contains 171623 variants.
+2018-01-04 14:19:48 Reference chr6 had maximum path complexity of 133 at chr6:18067888-18068331
+2018-01-04 14:19:53 Reference chr8 baseline contains 174934 variants.
+2018-01-04 14:19:53 Reference chr8 calls contains 175748 variants.
+2018-01-04 14:19:56 Reference chr7 had maximum path complexity of 133 at chr7:1814375-1814447
+2018-01-04 14:19:58 Reference chr9 baseline contains 134902 variants.
+2018-01-04 14:19:58 Reference chr9 calls contains 135768 variants.
+2018-01-04 14:19:58 Reference chr8 had maximum path complexity of 133 at chr8:12831518-12831556
+2018-01-04 14:20:01 Reference chr9 had maximum path complexity of 133 at chr9:16307142-16307221
+2018-01-04 14:20:01 Reference chr10 baseline contains 155623 variants.
+2018-01-04 14:20:01 Reference chr10 calls contains 156179 variants.
+2018-01-04 14:20:03 Reference chr11 baseline contains 158140 variants.
+2018-01-04 14:20:03 Reference chr11 calls contains 159557 variants.
+2018-01-04 14:20:04 Reference chr10 had maximum path complexity of 133 at chr10:4135832-4136093
+2018-01-04 14:20:06 Reference chr12 baseline contains 150168 variants.
+2018-01-04 14:20:06 Reference chr12 calls contains 150801 variants.
+2018-01-04 14:20:06 Reference chr11 had maximum path complexity of 133 at chr11:10589417-10590193
+2018-01-04 14:20:09 Reference chr12 had maximum path complexity of 133 at chr12:3283980-3283988
+2018-01-04 14:20:09 Reference chr13 baseline contains 124027 variants.
+2018-01-04 14:20:09 Reference chr13 calls contains 124721 variants.
+2018-01-04 14:20:10 Reference chr14 baseline contains 101375 variants.
+2018-01-04 14:20:10 Reference chr14 calls contains 101921 variants.
+2018-01-04 14:20:10 Reference chr13 had maximum path complexity of 133 at chr13:29940966-29941003
+2018-01-04 14:20:11 Reference chr15 baseline contains 88612 variants.
+2018-01-04 14:20:11 Reference chr15 calls contains 89168 variants.
+2018-01-04 14:20:11 Reference chr14 had maximum path complexity of 133 at chr14:23637251-23638082
+2018-01-04 14:20:12 Reference chr16 baseline contains 93976 variants.
+2018-01-04 14:20:12 Reference chr16 calls contains 94277 variants.
+2018-01-04 14:20:12 Reference chr15 had maximum path complexity of 133 at chr15:38562827-38564284
+2018-01-04 14:20:13 Reference chr17 baseline contains 76946 variants.
+2018-01-04 14:20:13 Reference chr17 calls contains 77068 variants.
+2018-01-04 14:20:13 Reference chr16 had maximum path complexity of 133 at chr16:13731190-13731233
+2018-01-04 14:20:14 Reference chr17 had maximum path complexity of 133 at chr17:81920-82132
+2018-01-04 14:20:14 Reference chr18 baseline contains 94559 variants.
+2018-01-04 14:20:14 Reference chr18 calls contains 94986 variants.
+2018-01-04 14:20:15 Reference chr19 baseline contains 59818 variants.
+2018-01-04 14:20:15 Reference chr19 calls contains 60232 variants.
+2018-01-04 14:20:15 Reference chr18 had maximum path complexity of 133 at chr18:368757-368793
+2018-01-04 14:20:16 Reference chr20 baseline contains 65864 variants.
+2018-01-04 14:20:16 Reference chr20 calls contains 66074 variants.
+2018-01-04 14:20:16 Reference chr19 had maximum path complexity of 133 at chr19:7635589-7635595
+2018-01-04 14:20:17 Reference chr21 baseline contains 44570 variants.
+2018-01-04 14:20:17 Reference chr21 calls contains 44610 variants.
+2018-01-04 14:20:17 Reference chr20 had maximum path complexity of 133 at chr20:13372440-13372456
+2018-01-04 14:20:17 Reference chr22 baseline contains 37286 variants.
+2018-01-04 14:20:17 Reference chr22 calls contains 37389 variants.
+2018-01-04 14:20:17 Reference chr21 had maximum path complexity of 133 at chr21:45368299-45368490
+2018-01-04 14:20:18 Reference chr22 had maximum path complexity of 133 at chr22:33148574-33148918
+2018-01-04 14:20:19 Reference chrX baseline contains 96829 variants.
+2018-01-04 14:20:19 Reference chrX calls contains 98179 variants.
+2018-01-04 14:20:20 Reference chrX had maximum path complexity of 459 at chrX:151265381-151265486
+2018-01-04 14:22:47 Threshold  True-pos  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------
+   85.780   3173620      19493      19329     0.9939       0.9939     0.9939
+     None   3177406      31602      15543     0.9902       0.9951     0.9926
+
+2018-01-04 14:22:49 Finished successfully in 218 s.

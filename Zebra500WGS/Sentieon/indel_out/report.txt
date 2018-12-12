@@ -1,0 +1,24 @@
+Location                     : /export/sdh/test/sentieon/VCalling/variant.indels.vcf.gz
+Failed Filters               : 0
+Passed Filters               : 378143
+SNPs                         : 0
+MNPs                         : 0
+Insertions                   : 175455
+Deletions                    : 196421
+Indels                       : 6267
+Same as reference            : 0
+SNP Transitions/Transversions: - (0/0)
+Total Het/Hom ratio          : 1.75 (240510/137633)
+SNP Het/Hom ratio            : - (0/0)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : 1.60 (107900/67555)
+Deletion Het/Hom ratio       : 1.80 (126343/70078)
+Indel Het/Hom ratio          : - (6267/0)
+Insertion/Deletion ratio     : 0.89 (175455/196421)
+Indel/SNP+MNP ratio          : - (378143/0)
+
+rtg vcfeval:
+Threshold  True-pos  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------
+   59.770    355791      14766      13688     0.9602       0.9630     0.9616
+     None    357143      20682      12336     0.9453       0.9666     0.9558

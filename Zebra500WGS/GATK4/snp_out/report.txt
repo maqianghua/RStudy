@@ -1,0 +1,24 @@
+Location                     : /hwfssz1/BIGDATA_COMPUTING/maqianghua/work-gatk4/alignment/gatk4/Analysis/gatk4.snps.vcf.gz
+Failed Filters               : 0
+Passed Filters               : 3203776
+SNPs                         : 3203181
+MNPs                         : 0
+Insertions                   : 430
+Deletions                    : 165
+Indels                       : 0
+Same as reference            : 0
+SNP Transitions/Transversions: 2.10 (3024291/1438362)
+Total Het/Hom ratio          : 1.55 (1945158/1258618)
+SNP Het/Hom ratio            : 1.54 (1944563/1258618)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (430/0)
+Deletion Het/Hom ratio       : - (165/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : 2.61 (430/165)
+Indel/SNP+MNP ratio          : 0.00 (595/3203181)
+
+rtg vcfeval:
+Threshold  True-pos  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------
+   49.790   3176298      19676      16651     0.9938       0.9948     0.9943
+     None   3179006      24770      13943     0.9923       0.9956     0.9939
